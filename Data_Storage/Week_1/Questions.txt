@@ -1,0 +1,7 @@
+1) The range of storage solutions on offer and the lack of standardisation provide major challenges. There are no clear best practices or industry standards to ensure distributed data is securely accessed and transported into core datacentres.
+
+2) Structured data is highly organized and formatted in a way that it's easily searchable in relational databases. Unstructured data has no pre-defined format or organization, making it difficult to collect, process, and analyze.
+
+3) Edge computing is a way to streamline the movement of traffic from IoT devices and implement realtime local data analysis. It helps reduce connectivity costs by sending only the information that matters instead of raw streams of sensor data.
+
+4) Big data refers to the large volume of data, both unstructured and structured. Big data is data so large, fast or complex that it's difficult or impossible to process using traditional methods.

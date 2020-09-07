@@ -1,0 +1,15 @@
+1) Explain how Machine Learning (ML) is related to Internet  of Things.
+2) Describe, in general level, an IoT  application that uses ML. You don't need to go into technical details, just a brief description of the system.
+3) What types of ML systems are there (3 categories) ?
+
+1) Machine Learning can help predict things that may happen to a machine based on the data an IoT application is collecting. The data collected can then be compared to previous data by the machine learning system and predict possible malfunctions in an important machine for example.
+
+2) An example IoT application using ML could be a sensor that collects some form of maintenance data and from that maintenance data the machine learning algorithm can learn when a specific machine could possibly be in need of maintenance before anything serious can happen and possibly damage the machine severely.
+
+3) Supervised learning, unsupervised learning, and reinforcement learning systems. 
+
+Supervised learning system uses a training set where you have desired results, which are fed to the learning algorithm. The desired results are called labels.
+
+Unsupervised learning uses a training set where the data is completely unlabeled and the system tries to learn without a teacher.
+
+Reinforcement learning system, called an agent in this context, observes the environment, performs actions, and gets rewards or penalties based on its actions. I learns by itself the best course of action to ensure getting the reward over time. A policy is defined to determine what action the agent should choose in a given situtation.

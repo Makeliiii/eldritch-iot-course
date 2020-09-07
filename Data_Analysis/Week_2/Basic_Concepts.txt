@@ -1,0 +1,8 @@
+1. Mean is the average value found by adding all points of data and dividing by the amount of data points, median is the middle value when the data set is ordered from lowest value to highest, and range is the difference between the largest and smallest values.
+2. Standard deviation expresses the variation from the mean value for a set of data. Variance is the measurement of the spread between numbers in a data set.
+3. A sample is a set of items collected from a statistical set of data. A population is a set of similar items which interest some question.
+4. With interquartile range we divide the data set into quartiles. It is a measure of variability and is used when the data set has outliers.
+5. A graphical display of data using bars of different heights.
+6. A bias is when a statistic if unrepresentative of the population.
+7. A distribution is a function that shows the possible values for a variable and how often they occur. Not sure what the most common one is, maybe Bernoulli and Uniform.
+8. Discrete distribution means that X can assume one of a countable number of values, while continuous distribution means that X can assume one of an infinite number of different values.

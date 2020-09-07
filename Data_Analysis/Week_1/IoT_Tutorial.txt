@@ -1,0 +1,14 @@
+1.  IoT stands for internet of things and means the use and access of devices using internet. For example sensors that allow the collection of data without human interaction.
+2.  The most important features of IoT are connectivity, analyzing, intergrating, and active engagement.
+3.  Advantages of IoT: 
+        - Minimizing human effort and time saving
+        - Enhanced data collection
+        - Efficient resource utilization
+    Disadvantages of IoT:
+        - Security
+        - Privacy
+        - Complexity
+4.  Temperature, GPS, Proximity, Gyroscope, Accelerometer
+5.  Arduino devices, Nordic Semiconductor, Intel Galileo. Microprocessor is only a CPU while microcontroller has a processor already in it along with internal memory and I/O components.
+6.  The IoT ecosystem includes all the components that enable the users to connect to their IoT devices. It includes dashboards, networks, data storage, analytics, security, and more.
+7.  The IoT technology stack is just a range of technologies, standards, and applications, which lead from the simple connection of objects to the Internet to the most easy and most complex applications that use these connected things, the data they gather and communicate and the different steps needed to power these applciations.
