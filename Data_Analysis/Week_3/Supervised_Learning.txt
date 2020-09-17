@@ -1,0 +1,14 @@
+1)  Classification
+    Classification specifies the class to which data elements belong to and is best used when the output has finite and discrete values.
+
+2)  Target
+    Target is the final output being predicted. It can be categorical (true/false) or continuous (number/string/i.e).
+
+3)  Feature
+    Features are variables that act as the input in your system.
+
+4)  Predictor
+    Predictors are the input data or the variables mapped to the target variable through an empirical relationship usually determined through the data.
+
+5)  Regression
+    Regression techniques are used when the output is real-valued based on continuous variables.

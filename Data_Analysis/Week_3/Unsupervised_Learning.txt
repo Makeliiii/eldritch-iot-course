@@ -1,0 +1,17 @@
+1)  Custering
+    Clustering involves segregating data based on the similarity between data instances.
+
+2)  Visualization
+    Visualization is a technique that uses visuals to help people understand and make sense of large amounts of data.
+
+3)  Dimensionality reduction
+    The goal of reducing the number of variables, characteristics or features in a dataset.
+
+4)  Feature extraction
+    Feature extraction is used to reduce the number of features of a certain dataset. The output features will not be the same as originals.
+
+5)  Anomaly detection
+    The process of identifying unexpected items or events, which differ from the norm, in datasets.
+
+6)  Association rule learning
+    A learning technique that finds important relations between variables or features in a dataset.
