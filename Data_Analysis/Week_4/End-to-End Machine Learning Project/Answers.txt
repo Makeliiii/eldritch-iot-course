@@ -1,0 +1,10 @@
+1. longitude, latitude, housing_median_age, total_rooms, total_bedrooms, population, households, median_income, median_house_value, and ocean_proximity
+2. Because your ML algorithms will eventually get to see the whole dataset
+3. You should use each instance's identifier to decide whether or not it should go in the test set.
+4. Stratified sampling means that the dataset is divided into homogenous subgroups called strata, and the right number of instances are sampled from each stratum to guarantee that the test set is representative of the whole data.
+5. When it's 1, it means that there is a strong prositive correlation. When it's -1, there's a strong negative correlation. 0 means there's no linear correlation. In this case correlation refers to the mutual relationship between two different attributes. For example in this data set median_house_value and median_income have a high correlation coefficient between eachother, meaning that the median_house_value tends to go up when median_income goes up.
+6. You can use DataFrame's dropna(), drop(), and fillna() methods. Scikit-Learn also provides a class to take care of missing values with, which is called SimpleImputer.
+7. With min-max scaling the values are rescaled so that they end up ranging from 0 to 1. Standardization substracts the mean value and then divides by the standard deviation so that the resulting distribution has unit variance.
+8. A feature which splits the training set into 10 different subsets and then trains and evaluates the Decision Tree model 10 times, picking a different fold for evaluation every time and training the other 9 folds.
+9. A parameter whose value is used to control the learning process.
+10. You can do grid search, randomized search, ensemble methods, and analyze the best models and their errors.
