@@ -1,0 +1,7 @@
+A time series based database is a database optimized for time-stamped or time series data. A time series database is built specifically for handling data that is time-stamped and is optimized for measuring change over time.
+
+InfluxDB: 
+    InfluxDB is a completely open-source time series database supporting a large set of programming languages and is optimized for heavy writing load. It is schema free and is very much like a NoSQL database since you don't have to setup your database in any way.
+
+TimescaleDB:
+    TimescaleDB is also an open-sourced time series database based on SQL. It also supports a large amount of programming languages. TimescaleDB is directly tied with PostresSQL and supports SQL language natively, allowing the developer to jump in without having to learn a new language.

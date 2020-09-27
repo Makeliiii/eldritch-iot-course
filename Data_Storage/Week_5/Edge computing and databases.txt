@@ -1,0 +1,5 @@
+Edge computing is a networking philosophy focused on bringing computing as close as possible to the source of data in order to reduce latency and bandwith usage. 
+
+For a database to be suitable for edge computing it needs to run directly on a multitude of edge devices and since most IoT devices are physically small and have limited resources, the database needs to have a small footprint. Edge computing also has a certain need for speed as the sensors produce a lot of data in a short amount of time.
+
+A few examples of databases suitable for edge computing would be EdgeDB and Azure SQL Edge.
