@@ -1,0 +1,10 @@
+Yarn - Yarn is the data processing part of hadoop. It manages the recources and job schedules.
+MapReduce - A software framework to process massive amounts of data.
+HDFS - A distributed file system. This allows to distribute the data across a cluster of computers.
+Pig - A high level programming API which allows you to write scripts which it in return will be transformed into something that will run on MapReduce.
+Hive - An SQL-like interface to query data.
+Impala - SQL query engine for Hadoop.
+HBase Sqoop - HBase is a NoSQL database. Sqoop is a command line interface for transferring data between relational databases.
+Flume - A way of transporting weblogs at a very large scale.
+Ambari - Apache Ambari allows the system admin to monitor and manage a Hadoop cluster.
+Oozie - A way of scheduling jobs on your cluster.
