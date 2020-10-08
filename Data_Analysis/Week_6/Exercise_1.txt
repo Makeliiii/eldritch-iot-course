@@ -1,0 +1,7 @@
+1) The linear regression model gives you the relationship between these two variables.
+2) Gradient Descent is an optimization algorithm that is used to find the local minimum of a function by iteratively moving in the direction of steepest descent.
+3) Partial derivative is the impact each variable has on the final prediction
+4) If the learning rate is too small, the algorithm will perform very slowly and will have to go through many iterations to reach the minimum. If the learning rate is too high, the algorithm might start jumping around and possibly end up even higher than what you started with.
+5) Stochastic Gradient Descent always picks a random instance from the training set and based on that, it computes the gradients.
+6) In polynomial regression the dataset being examined is nonlinear and unable to fit a simple linear regression graph to the plotted data.
+7) Underfitting happens when a machine learning model is not complex enough to capture the relations between a dataset's features and a target variable. Overfitting is the opposite of underfitting and it happens when a machine learning model is too familiar with the data which it was trained on.
